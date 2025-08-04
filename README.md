@@ -60,8 +60,7 @@ POST /api/auth/signup
 Body:
 
 json
-Copy
-Edit
+
 {
   "username": "khushi",
   "email": "khushi@example.com",
